@@ -1,0 +1,68 @@
+{
+	"id": "5be27598-ec3c-479c-a36e-011c6fe104ee",
+	"createdAt": "2024-10-02T14:08:12.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/james-vmg/fleet-management-developmentpackage",
+		"branch": "master"
+	},
+	"name": "fleet-management-developmentpackage",
+	"description": null,
+	"ver": "25.03.29.1914",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "92cbd011-e222-4d75-9c00-7eb006f02e98",
+			"description": null,
+			"name": "Cruise Fleet"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "4bf5cfc9-0ef8-4f55-a867-a65865d5f351",
+			"name": "fleetmanagement_driver",
+			"description": null
+		},
+		{
+			"id": "14dc19d0-4ae7-4096-8bc2-3d6e54628c8f",
+			"name": "fleetmanagement_manager",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": []
+}

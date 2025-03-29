@@ -1,0 +1,11 @@
+{
+	"id": "4bf5cfc9-0ef8-4f55-a867-a65865d5f351",
+	"createdAt": "2025-02-04T00:04:40.000Z",
+	"createdBy": "admin",
+	"name": "fleetmanagement_driver",
+	"description": null,
+	"ver": "24.10.07.0902",
+	"isGlobalAdmin": false,
+	"package": "5be27598-ec3c-479c-a36e-011c6fe104ee",
+	"acl": []
+}

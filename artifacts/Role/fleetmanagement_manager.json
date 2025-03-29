@@ -1,0 +1,11 @@
+{
+	"id": "14dc19d0-4ae7-4096-8bc2-3d6e54628c8f",
+	"createdAt": "2025-02-04T00:04:40.000Z",
+	"createdBy": "admin",
+	"name": "fleetmanagement_manager",
+	"description": null,
+	"ver": "24.10.07.0902",
+	"isGlobalAdmin": false,
+	"package": "5be27598-ec3c-479c-a36e-011c6fe104ee",
+	"acl": []
+}
